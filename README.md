@@ -3,5 +3,5 @@
 ![img1](https://github.com/ziliang-wang/seaborn/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200427145919.png)
 ###### 1，关键代码,在pipelines.py自定义1个继承自FilesPipeline的类，并改写3个方法:
 ![img2](https://github.com/ziliang-wang/seaborn/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200427151120.png)
-####### a，
-####### b，
+a，
+b，
