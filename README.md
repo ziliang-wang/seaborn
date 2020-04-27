@@ -8,3 +8,5 @@
 ###### c，file_path()方法，用来组合文件夹与文件名的结构，透过/符号来区分文件夹与文件
 ##### 3，settings.py中的配置
 ![img3](https://github.com/ziliang-wang/seaborn/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200427153608.png)
+![img4](https://github.com/ziliang-wang/seaborn/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200427153614.png)
+###### FILES_STORE，设置文件下载的存放路径，设为当前路径下的seaborn_examples目录，若是下载图片，则改为IMAGES_STORE
